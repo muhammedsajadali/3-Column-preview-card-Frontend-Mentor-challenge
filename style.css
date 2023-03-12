@@ -1,0 +1,121 @@
+:root{
+    --bright-orange: hsl(31, 77%, 52%);
+    --dark-cyan: hsl(184, 100%, 22%);
+    --very-dark-cyan: hsl(179, 100%, 13%);
+    --transparent-white: hsla(0, 0%, 100%, 0.75);
+    --very-light-gray : hsl(0, 0%, 95%);
+
+}
+
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display:flex;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center;
+    font-family: sans-serif;
+    min-height: 100vh;
+    scroll-behavior: smooth;
+    background-color: var(--very-light-gray);
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 4rem 1rem;
+}
+
+.sedans-container,.suvs-container,.luxury-container{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    color:var(--transparent-white);
+    line-height: 1.75rem;
+    padding:2rem;
+    min-width: 300px;
+}
+
+.sedans-container{
+    background-color: var(--bright-orange);
+    border-radius: 10px  10px 0 0 ;
+}
+
+.sedans-container button{
+    color:var(--bright-orange);
+    font-weight: 700;
+}
+
+.sedans-container button:hover{
+    background-color: var(--bright-orange);
+}
+
+.suvs-container{
+    background-color: var(--dark-cyan);
+}
+
+.suvs-container button{
+    color:var(--dark-cyan);
+    font-weight: 700;
+}
+
+.suvs-container button:hover{
+    background-color: var(--dark-cyan);
+}
+
+.luxury-container{
+    border-radius: 0 0 10px 10px;
+    background-color: var(--very-dark-cyan);
+}
+
+.luxury-container button{
+    color: var(--very-dark-cyan);
+    font-weight: 700;
+}
+
+.luxury-container button:hover{
+    background-color: var(--very-dark-cyan);
+}
+
+.sedans-container h1,.suvs-container h1,.luxury-container h1{
+    padding: 1.5rem 0;
+    font-size: 24px;
+    color: var(--very-light-gray);
+}
+
+.btns-design{
+    border:2px solid var(--transparent-white);
+    margin-top: 1rem;
+    padding: .75rem 2rem;
+    border-radius: 20px;
+}
+
+.hover-effect:hover{
+    cursor: pointer;
+    color:var(--transparent-white);
+    border:2px solid var(--transparent-white);
+}
+
+@media screen and (min-width:928px) {
+    main{
+        flex-direction: row;
+    }
+    .sedans-container{
+        border-radius: 10px 0 0 10px;
+        ;
+    }
+    .luxury-container{
+        border-radius: 0 10px 10px 0;
+    }
+    .btns-design{
+        margin-top: 3rem;
+    }
+}
