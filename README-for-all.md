@@ -1,5 +1,5 @@
 
-![3 Column Preview Card Component](Here paste link of project screenshot)
+![3 Column Preview Card Component](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ap7h50kkrdq7zclbokox.jpg)
 
 
 
@@ -7,9 +7,9 @@
 
 <div align="center">
 
-[Live](paste the live link of the solution)
+[Live](https://muhammedsajadali.github.io/3-Column-preview-card-Frontend-Mentor-challenge/)
 | [Solution](paste the link of solution)
-| [Challenge](paste the link of challenge)
+| [Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
 This is a solution to the [3 Column Preview Card Component challenge on Frontend Mentor](the link of challenge)
 
