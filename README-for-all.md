@@ -11,7 +11,7 @@
 | [Solution](paste the link of solution)
 | [Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
-This is a solution to the [3 Column Preview Card Component challenge on Frontend Mentor](the link of challenge)
+This is a solution to the [3 Column Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
 </div>
 
