@@ -8,10 +8,10 @@
 <div align="center">
 
 [Live](https://muhammedsajadali.github.io/3-Column-preview-card-Frontend-Mentor-challenge/)
-| [Solution](paste the link of solution)
+| [Solution](https://www.frontendmentor.io/solutions/flexbox-with-vanilla-css-877ur3oIrE)
 | [Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
-This is a solution to the [3 Column Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+Solution to the [3 Column Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
 </div>
 
