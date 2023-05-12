@@ -38,7 +38,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile/Desktop-first workflow
-- Vanilla JavaScript
+
 
 ## What I learned 
 
